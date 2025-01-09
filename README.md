@@ -1,9 +1,5 @@
 <div id="header" align="center">
-    <h1>Hi there, I'm  Mikhail👋 </h1>
-    <h3>Student from Saint-Petersburg</h3> 
-    <h3>Study in St. Petersburg  Polytechnic University</h3>
-    <h3>Specialty: Mathematics and Computer Science, 3rd year.</h3>
-    
+    <h1>Hi, I'm  Mikhail👋 </h1>
 </div>
 
 
